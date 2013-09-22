@@ -4,7 +4,8 @@
 
 In your command line, make sure you are in the project's main directory
 
-`git init  	# initialises a git repository for you project`
+`# initialises a git repository for you project
+git init`
 
 `git add .	# adds all files in directory to git repository`
 
